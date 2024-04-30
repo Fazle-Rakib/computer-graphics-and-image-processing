@@ -1,7 +1,5 @@
 # `computer-graphics` learning guideline
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency -[ https://git-scm.com/]
-
 ## Why CG
 
 ### How randering graphics works in games!
@@ -49,3 +47,7 @@ All OpenGL applications produce consistent visual display results on any OpenGL 
 ### A basic triangle rendering with ModernGL
 
 <https://colab.research.google.com/drive/1zQbNQ94JKvrr_xY5TBfazAMVv6pmw0HU#scrollTo=gu3HlTFFnUB7>
+
+## CG algo implementation expercise
+
+`Implement all the computer-graphics algorithm that has been taught in the theory class`
